@@ -2,7 +2,7 @@
 
 ## Introduction
 
-This Django & FastAPI project is designed to [provide a brief description of what your project does].
+This Django & FastAPI project.....
 
 ## Prerequisites
 
