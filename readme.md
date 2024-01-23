@@ -15,7 +15,7 @@ Before you begin, ensure you have met the following requirements:
    pip install django
    pip install fastpi
 
-- git clone https://github.com/yourusername/your-django-project.git
+- git clone https://github.com/ArshadQ118/GraphQL-Django---Fastapi.git
 - cd GraphQL-Django---Fastapi/graphqlWithDjango
 - pip install -r requirements.txt
 - python manage.py makemigrations
