@@ -1,0 +1,4 @@
+.DS_Store
+.idea
+graphqlWithDjango/myapp/migrations/*
+src/sqlite3

@@ -1,0 +1,7 @@
+fastapi==0.109.0
+graphene==3.3
+graphene-sqlalchemy
+pylint==3.0.3
+SQLAlchemy==2.0.25
+starlette-graphene3==0.6.0
+uvicorn==0.26.0
